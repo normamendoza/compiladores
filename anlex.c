@@ -467,11 +467,6 @@ void sigLex()
 						
 			break;
 		}
-		//else if (c!=EOF)
-		//{
-		//	sprintf(msg,"%c no esperado",c);
-		//	error(msg);
-		//}
 	}
 	if (c==EOF)
 	{
